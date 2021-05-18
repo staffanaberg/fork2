@@ -11,4 +11,6 @@ public class Point extends Shape {
 	public void draw() {
 		System.out.println("Drawing a point at:(" + getX() + ", " + getY() + ")");
 	}
+	
+	//adding something
 }
