@@ -2,6 +2,7 @@ package common;
 
 public class Point extends Shape {
 
+	//A Point
 	public Point(int x, int y) {
 		super(x, y);
 	}
