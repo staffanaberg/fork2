@@ -8,6 +8,7 @@ public class Point extends Shape {
 	}
 
 	//Draw method is here
+
 	public void draw() {
 		System.out.println("Drawing a point at:(" + getX() + ", " + getY() + ")");
 	}
